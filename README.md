@@ -1,2 +1,4 @@
-# rust-experiments
- Teaching myself rust practically.
+# Rust Experiments
+
+Teaching myself rust practically.
+

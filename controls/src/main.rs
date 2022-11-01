@@ -4,6 +4,12 @@ fn main() {
     // println!("Hello, world!");
     print::print();
 
+    print::print_w_args("Rust User");
+
+    print::print_tuple_debug();
+
+    print::print_arrays();
+
     let a = [12, 28, 36, 43, 51];
     let mut index = 0;
 
